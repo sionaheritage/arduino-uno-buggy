@@ -1,0 +1,18 @@
+# Arduino IDE temporary build files
+build/
+bin/
+obj/
+
+# Compilation output
+*.elf
+*.hex
+*.eep
+*.lst
+*.map
+
+# Local/External libraries (should be installed via IDE)
+libraries/
+
+# Operating system files
+.DS_Store
+Thumbs.db
